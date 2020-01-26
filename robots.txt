@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vaeyajooxo.sitetrust.de/sitemap.xml
